@@ -36,7 +36,7 @@ void Clan::displayMatrix(QGraphicsScene &scene, Walls *walls, ClanCastle *clanca
             QGraphicsPixmapItem *item = nullptr;
             switch (matrix[row][col]) {
             case '0':
-                item = new QGraphicsPixmapItem(QPixmap("C:/Users/moham/OneDrive/Desktop/pics/images.jpeg"));
+                item = new QGraphicsPixmapItem(QPixmap(":/new/prefix1/images.jpeg"));
                 item->setPos(col * 50, row * 50);
                 scene.addItem(item);
 
