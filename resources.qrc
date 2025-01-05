@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Chicken.png</file>
+        <file>wall.jpeg</file>
+        <file>archer tower.jpeg</file>
+        <file>builder.jpeg</file>
+        <file>images.jpeg</file>
+        <file>lasthall.png</file>
+        <file>map.txt</file>
+    </qresource>
+</RCC>
